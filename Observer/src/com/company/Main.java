@@ -23,6 +23,6 @@ public class Main {
         s4.subscribeChannel(ch);
         s5.subscribeChannel(ch);
 
-        ch.upload("Chuj Ci w dupę!");
+        ch.upload("Hi!");
     }
 }
